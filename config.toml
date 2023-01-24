@@ -1,4 +1,4 @@
-baseURL = "https://AdriMota.github.io/Blog-LabVeilTech"
+baseURL = "https://blog-labveiltech.adrianamota.ch"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
