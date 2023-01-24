@@ -10,18 +10,22 @@
     align-items: center;
     justify-content: flex-start;
     > li {
-      margin-right: 10px;
+      margin-right: 25px;
+      width: 75px;
+      text-align: center;
       > a {
         display: inline-block;
+        font-weight: lighter;
         text-decoration: none;
         &:hover {
-          text-decoration: underline;
+          color: var(--dot-color);
         }
       }
       &.active {
         > a {
           display: inline-block;
           font-weight: bold;
+          color: var(--dot-color);
         }
       }
       &:last-of-type {

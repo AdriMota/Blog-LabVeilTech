@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "portfolio",
+      "url": "https://adrianamota.ch",
+      "image": "images/social/browser.png"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/AdriMota",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/adriana-mota/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
