@@ -1,8 +1,8 @@
 ---
 title: "Framer, c'est quoi ?"
 date: 2023-01-30
-description: "Framer est un outil de prototypage qui permet la conception simplifiée d'applications mobiles ou de sites internet."
-image: images/articles/DataViz/Data-visualization.jpg
+description: "Framer est un outil de prototypage qui permet la conception simplifiée d'applications mobiles ou de sites internet. Il propose des composants intelligents, des modèles prédéfinis, des tests utilisateurs et un espace collaboratif. Il est disponible en ligne et sur Windows/macOS/Android/iOS. La version gratuite comprend un nombre limité d'éditeurs et de projets, tandis que la formule payante offre des modèles et polices personnalisés, des projets illimités et des liens de partage privés."
+image: images/articles/Framer/Wireframe.jpg
 ---
 
 Framer est un outil de prototypage qui permet la conception simplifiée d'applications mobiles ou de sites internet. Il propose des composants intelligents, des modèles prédéfinis, des tests utilisateurs et un espace collaboratif. Il est disponible en ligne et sur Windows/macOS/Android/iOS. La version gratuite comprend un nombre limité d'éditeurs et de projets, tandis que la formule payante offre des modèles et polices personnalisés, des projets illimités et des liens de partage privés. Une tarification personnalisée est disponible pour les besoins importants.
