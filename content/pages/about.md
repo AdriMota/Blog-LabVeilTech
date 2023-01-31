@@ -1,6 +1,6 @@
 ---
 title: 'À propos'
-image: images/mini-author.jpg
+image: images/about/mini-author.jpg
 url: "about"
 menu:
   main:
@@ -17,10 +17,10 @@ Salut, je suis Adriana et j’ai 25 ans. J’aime la chaleur, la couleur jaune e
 
 ## Ikigai
 Durant ma formation d'ingénierie des médias, pour le laboratoire de veille technologique, j'ai du imaginer mon métier de rêve. Premièrement, j'ai commencé par réaliser mon un [Ikigai](https://fr.wikipedia.org/wiki/Ikigai).
-![Ikigai](/images/Ikigai.png)
+![Ikigai](/images/about/Ikigai.png)
 
 C'est en le faisant que je me suis rendue compte que ce n'était pas une tâche facile. Alors, pour approfondir le sujet. j'ai réalisé une petite fiche de domaine. Après plusieurs recherches et réflexions, voici ce qui est ressorti :
-![Fiche de domaine](/images/FicheDomaine.png)
+![Fiche de domaine](/images/about/FicheDomaine.png)
 
 Je te mets au défi de réaliser ton Ikigai ! Après ça, je te souhaite le meilleur pour que tu puisses réaliser le **métier de tes rêves**.
 

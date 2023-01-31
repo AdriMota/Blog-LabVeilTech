@@ -18,7 +18,13 @@ ol, ul {
   padding: 0;
   list-style: none; }
   ol li, ul li {
-    list-style: none; }
+    list-style: none;
+    font-family: var(--font-family-paragraph);
+    color: var(--text-color);
+    font-weight: lighter; }
+
+ul {
+  list-style: none; }
 
 h1, h2, h3 {
   margin-top: 20px;
